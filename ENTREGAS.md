@@ -8,7 +8,7 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 - [x] Repositório criado e configurado
 - [x] Estrutura de pastas definida
 - [x] Next.js instalado e configurado
-- [ ] shadcn/ui instalado e configurado
+- [x] shadcn/ui instalado e configurado
 - [ ] Supabase conectado ao projeto
 - [ ] React Query configurado
 - [ ] Zod instalado
