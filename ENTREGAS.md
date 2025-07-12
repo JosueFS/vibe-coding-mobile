@@ -9,7 +9,7 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 - [x] Estrutura de pastas definida
 - [x] Next.js instalado e configurado
 - [x] shadcn/ui instalado e configurado
-- [ ] Supabase conectado ao projeto
+ - [x] Supabase conectado ao projeto
 - [ ] React Query configurado
 - [ ] Zod instalado
 - [ ] Configuração do ESLint/Prettier
