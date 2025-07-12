@@ -5,9 +5,9 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 ---
 
 ## Etapa 1: Setup Inicial
-- [x] Repositório criado e configurado
-- [x] Estrutura de pastas definida
-- [x] Next.js instalado e configurado
+- [ ] Repositório criado e configurado
+- [ ] Estrutura de pastas definida
+- [ ] Next.js instalado e configurado
 - [ ] shadcn/ui instalado e configurado
 - [ ] Supabase conectado ao projeto
 - [ ] React Query configurado
