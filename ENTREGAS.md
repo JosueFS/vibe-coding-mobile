@@ -14,7 +14,7 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 - [x] React Query configurado
 - [x] Zod instalado
 - [x] Configuração do ESLint/Prettier
-- [ ] README inicial atualizado
+- [x] README inicial atualizado
 
 ## Etapa 2: Autenticação e Cadastro
 
