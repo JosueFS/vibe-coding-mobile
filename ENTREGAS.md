@@ -5,6 +5,7 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 ---
 
 ## Etapa 1: Setup Inicial
+
 - [x] Repositório criado e configurado
 - [x] Estrutura de pastas definida
 - [x] Next.js instalado e configurado
@@ -12,10 +13,11 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 - [x] Supabase conectado ao projeto
 - [x] React Query configurado
 - [x] Zod instalado
-- [ ] Configuração do ESLint/Prettier
+- [x] Configuração do ESLint/Prettier
 - [ ] README inicial atualizado
 
 ## Etapa 2: Autenticação e Cadastro
+
 - [ ] Tela de login
 - [ ] Tela de cadastro
 - [ ] Integração com autenticação do Supabase
@@ -24,6 +26,7 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 - [ ] Feedback de erros e loading
 
 ## Etapa 3: Gestão de Listas
+
 - [ ] Tela para criar nova lista
 - [ ] Listagem de listas do usuário
 - [ ] Edição e exclusão de listas
@@ -31,6 +34,7 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 - [ ] Feedback visual para ações
 
 ## Etapa 4: Itens da Lista
+
 - [ ] Adição de itens à lista
 - [ ] Edição e exclusão de itens
 - [ ] Categorização dos itens
@@ -39,18 +43,21 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 - [ ] Validação dos dados com Zod
 
 ## Etapa 5: Colaboração
+
 - [ ] Compartilhamento de listas com outros usuários
 - [ ] Visualização de participantes
 - [ ] Permissões de edição
 - [ ] Notificações básicas (ex: convite aceito)
 
 ## Etapa 6: Perfil do Usuário
+
 - [ ] Tela de perfil
 - [ ] Edição de dados pessoais
 - [ ] Alteração de senha
 - [ ] Opção para desativar conta
 
 ## Etapa 7: Refinamento e Testes
+
 - [ ] Testes unitários e de integração
 - [ ] Ajustes de UI/UX
 - [ ] Documentação de endpoints e fluxos
