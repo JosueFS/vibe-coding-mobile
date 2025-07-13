@@ -11,7 +11,7 @@ Este documento detalha as etapas de entrega do projeto, com um checklist para ca
 - [x] shadcn/ui instalado e configurado
 - [x] Supabase conectado ao projeto
 - [x] React Query configurado
-- [ ] Zod instalado
+- [x] Zod instalado
 - [ ] Configuração do ESLint/Prettier
 - [ ] README inicial atualizado
 
