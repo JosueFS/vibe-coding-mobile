@@ -1,6 +1,6 @@
 "use client"
 import { Card } from "@/components/ui/card"
-import { RegisterForm } from "@/components/auth/RegisterForm"
+import { RegisterForm } from "./_components/register-form"
 
 export default function RegisterPage() {
 	return (

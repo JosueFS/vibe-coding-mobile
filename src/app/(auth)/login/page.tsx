@@ -1,6 +1,6 @@
 "use client"
 import { Card } from "@/components/ui/card"
-import { LoginForm } from "@/components/auth/LoginForm"
+import { LoginForm } from "./_components/login-form"
 
 export default function LoginPage() {
 	return (
